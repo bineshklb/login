@@ -5,7 +5,7 @@ var password=document.getElementById("password").Value;
 if(username=="binesh" && password=="123")
 {
     alert("login successfully");
-    return false;    
+//     return false;    
 }
 else
 {
